@@ -22,8 +22,8 @@ I'm pretty decent at **SystemVerilog**. It's a *hardware description language*, 
 | Where | Role | What I did |
 |-------|------|------------|
 | AMD (Austin, TX) | SoC Power Architecture Intern | Worked on power architecture in the Client Business Unit |
-| Tactical Affairs | Engineer | Built the company's targeting system from the ground up |
-| University of Washington | Teaching Assistant | TA for EE/CSE 371 (Digital Design) |
+| Tactical Affairs | Electrical Engineering Intern | Help built the company's targeting system from the ground up |
+| University of Washington | Teaching Assistant | Currently TAing for EE/CSE 371 (Digital Design) |
 
 ## My Projects
 
