@@ -1,6 +1,6 @@
 # Hi, I'm Hemil!
 
-![A photo of me](me.jpg)
+<img src="me.jpg" alt="A photo of me" width="300">
 
 I'm a senior studying **Electrical and Computer Engineering** at the University of Washington. I'm originally from India and I graduate in June 2027.
 
